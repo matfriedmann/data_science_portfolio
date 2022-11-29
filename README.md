@@ -7,7 +7,11 @@
 # Mateus Friedmann
 <sub>*Data Scientist* </sub>
 
-Bio
+Passionate about technology and communication, I aim to deliver business value through technology, analyzing and developing solutions.
+
+Experienced on the ServiceNow platform, developing infrastructure solutions to improve the accuracy, and maintenance of data through its lifecycle, through Discovery, Service Mapping, Event Management, and Application Portfolio Management(APM).
+
+Throughout my career I realized the numerous benefits of using data as an ally in decision making, which led me to become a Data Scientist, developing analytical and technical skills to help impact business through data-driven solutions.
 
 **Background in:** Python, Machine Learning, Data Analysis.
 
