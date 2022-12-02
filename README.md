@@ -22,7 +22,7 @@ Throughout my career I realized the numerous benefits of using data as an ally i
 
 ## Projects:
 
-* **Yet to come** 
+* **Airbnb Data Analysis - Mexico City**  - In progress
 
 
 ---
