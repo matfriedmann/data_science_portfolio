@@ -13,16 +13,16 @@ Experienced on the ServiceNow platform, developing infrastructure solutions to i
 
 Throughout my career I realized the numerous benefits of using data as an ally in decision making, which led me to become a Data Scientist, developing analytical and technical skills to help impact business through data-driven solutions.
 
-**Background in:** Python, Machine Learning, Data Analysis.
+**Background in:** IT Operations Management, Python, Data Analysis, Machine Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/matfriedmann)
-* [Medium](https://www.medium.com)
+* [LinkedIn/MatFriedmann](https://www.linkedin.com/in/matfriedmann)
+* [Medium/@matfriedmann](https://www.medium.com/@matfriedmann)
 
 
 ## Projects:
 
-* **Airbnb Data Analysis - Mexico City**  - In progress
+* [**Airbnb Data Analysis - Mexico City**](https://github.com/matfriedmann/airbnb_data_analysis_mexico_city/blob/8ce7ae40d9b6ddb3592c5c929e5ba432e22f8e05/Analyzing_Airbnb_Data_Mexico_City.ipynb)
 
 
 ---
