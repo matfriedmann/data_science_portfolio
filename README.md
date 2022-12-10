@@ -14,6 +14,9 @@ Throughout my career I realized the numerous benefits of using data as an ally i
 
 **Background in:** IT Operations Management, Python, Data Analysis, Machine Learning.
 
+
+Portfolio also available in *Portuguese* - [Portfólio de Data Science](https://github.com/matfriedmann/portfolio_de_data_science#readme)
+
 **Links:**
 * [LinkedIn/MatFriedmann](https://www.linkedin.com/in/matfriedmann)
 * [Medium/@matfriedmann](https://www.medium.com/@matfriedmann)
