@@ -6,7 +6,7 @@
 # Mateus Friedmann
 <sub>*Data Scientist* </sub>
 
-Passionate about technology and communication, I aim to deliver business value through technology, analyzing and developing solutions.
+Passionate about technology and communication, focused in delivering business value through technology, analyzing and developing solutions.
 
 Experienced on the ServiceNow platform, developing infrastructure solutions to improve the accuracy, and maintenance of data through its lifecycle, through Discovery, Service Mapping, Event Management, and Application Portfolio Management(APM).
 
