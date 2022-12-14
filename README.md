@@ -8,9 +8,9 @@
 
 Passionate about technology and communication, focused in delivering business value through technology, analyzing and developing solutions.
 
-Experienced on the ServiceNow platform, developing infrastructure solutions to improve the accuracy, and maintenance of data through its lifecycle, through Discovery, Service Mapping, Event Management, and Application Portfolio Management(APM).
+Experienced on the ServiceNow platform, developing infrastructure solutions to improve the accuracy, and maintenance of data through its lifecycle, through IT Operations Management and IT Service Management.
 
-Throughout my career I realized the numerous benefits of using data as an ally in decision making, which led me to become a Data Scientist, developing analytical and technical skills to help impact business through data-driven solutions.
+Throughout my career, I realized the numerous benefits of using data as an ally in decision-making, which led me to become a Data Scientist, developing analytical and technical skills to help impact the business through data-driven solutions.
 
 **Background in:** IT Operations Management, Python, Data Analysis, Machine Learning.
 
