@@ -24,7 +24,7 @@ Portfolio also available in *Portuguese* - [Portfólio de Data Science](https://
 
 ## Projects:
 
-* [**Airbnb Data Analysis - Mexico City**](https://github.com/matfriedmann/airbnb_data_analysis_mexico_city/blob/8ce7ae40d9b6ddb3592c5c929e5ba432e22f8e05/Analyzing_Airbnb_Data_Mexico_City.ipynb)
+* [**Airbnb Data Analysis - Mexico City**](https://github.com/matfriedmann/airbnb_data_analysis_mexico_city)
 
 
 ---
